@@ -1,0 +1,9 @@
+streamlit
+llama-index
+pdfplumber # pdf extraction
+requests 
+pyttsx3
+openai-whisper # openai speech recognition
+faiss-cpu # if using FAISS
+sentence-transformers # if using SBERT embeddings
+python-dotenv

@@ -1,0 +1,79 @@
+{
+  "session_id": "15f52533-b678-49e7-82a1-ec3c1250e39c",
+  "filename": "Session 2 - Logic and Propositions_p.pdf",
+  "uploaded_at": "2026-02-13T11:11:18.235082",
+  "chat_history": [
+    {
+      "role": "user",
+      "text": "Describe the core concepts for Logic & Propositions"
+    },
+    {
+      "role": "assistant",
+      "text": "The core concepts for Logic and Propositions, as described in the provided document, include:\n\n1. **Propositional Logic**: The area of logic that deals with propositions.\n2. **Propositional Variables**: Variables that represent propositions such as \\( p \\), \\( q \\), \\( r \\), etc.\n3. **Propositions**: Statements that can be evaluated as true or false. For example, \"Today is Friday.\"\n4. **Truth Values**: Representations of the truth of a proposition using T (true) and F (false) or 1 and 0.\n\n(Page 5)\n\nNotes: The document does not provide examples of propositions directly related to Propositional Logic, but it mentions that some sentences can be checked as propositions and whether they are true or false."
+    },
+    {
+      "role": "user",
+      "text": "Can you help me derive the exercises being used in this chapter slide?"
+    },
+    {
+      "role": "assistant",
+      "text": "Direct Answer: The exercises listed for Homework 1 are as follows:\n2, 6, 10, 12, 16, 18, 24, 32, 36, 40.\n\nSupporting Evidence:\n(Page 26)\n\nNotes: \nI couldn't find this information in the provided document context."
+    },
+    {
+      "role": "user",
+      "text": "What are propositions, explain in both social and mathematical terms?"
+    },
+    {
+      "role": "assistant",
+      "text": "Propositions can be understood from both social and mathematical perspectives. \n\nIn a **social context**, according to the document on page 3, examples of propositions include sentences that are either true or false based on their content. For instance:\n- \"The discrete math is a required course to all IT students.\" This sentence could be considered a proposition because it can be evaluated as true or false depending on the institution's policy.\n- \"97 is a prime number.\" This is also a proposition, as its truth value (true) can be determined based on mathematical facts.\n- \"N is a prime number.\" This proposition\u2019s truth value depends on what N represents. If N is fixed to a specific number like 2, it would be true; otherwise, it could be false.\n\nIn a **mathematical context**, the document on page 7 introduces propositional logic and explains that propositions are statements that can be evaluated as either true or false. Propositions in this sense involve logical operators used to form new propositions from existing ones. The truth table for negation provided (Page 7) is an example of how a proposition's truth value changes based on the operator applied.\n\nTherefore, propositions are declarative sentences in both social and mathematical contexts that have a determinable state of being true or false."
+    },
+    {
+      "role": "user",
+      "text": "Does this chapter slide mention about chemistry?\n"
+    },
+    {
+      "role": "assistant",
+      "text": "I couldn't find this in the document."
+    },
+    {
+      "role": "user",
+      "text": "What are truth values?\n"
+    },
+    {
+      "role": "assistant",
+      "text": "Answer: The truth values in propositional logic are either true or false. In the context of bit operations, a bit represents these truth values with 0 for false and 1 for true.\n\nSupporting Evidence:\n(Page 7)\n\nNotes:\nI couldn't find this information directly related to bit representations in the document, but it is consistent with how bits represent Boolean variables as either 0 (false) or 1 (true)."
+    },
+    {
+      "role": "user",
+      "text": "Basic rules when perfoming logic operations (specifically the proposition given)"
+    },
+    {
+      "role": "assistant",
+      "text": "Direct Answer: The precedence of logical operators in Propositional Logic is as follows:\n- \u00ac has the highest precedence.\n- \u039b (AND) and \u03bd (OR) have the same precedence, which is lower than \u00ac but higher than \u2192 (IMPLIES) and \u2194 (BICONDITIONAL).\n- \u2192 (IMPLIES) and \u2194 (BICONDITIONAL) have the lowest precedence.\n\nSupporting Evidence:\n(Page 19)\n\nNotes: \nI couldn't find this information in the document."
+    },
+    {
+      "role": "user",
+      "text": "The definition of propositions"
+    },
+    {
+      "role": "assistant",
+      "text": "I couldn't find this in the document"
+    },
+    {
+      "role": "user",
+      "text": "If the definition of propositions does not exist, then what does it tell about?"
+    },
+    {
+      "role": "assistant",
+      "text": "I couldn't find this in the document"
+    },
+    {
+      "role": "user",
+      "text": "Describe the core concepts for Logic & Propositions"
+    },
+    {
+      "role": "assistant",
+      "text": "The core concepts for Logic & Propositions include:\n\n- Propositional Logic: The area of logic that deals with propositions (Page 5).  \n- Propositional Variables: Variables that represent propositions, such as p, q, r, s (Page 5).  \n- Propositions: Statements that are either true or false (Page 5).  \n- Truth Values: Propositions have truth values of True (T) or False (F), which can also be represented as 1 or 0 (Page -5).  \n- Logical Operators (Connectives): Used to form new propositions from existing ones (Page 7).  \n- Truth Tables: Tools used to evaluate the truth values of compound propositions based on the truth values of their components (Page 7).  \n- Negation: A logical operator that inverts the truth value of a proposition, as shown in the truth table where \u00acp is the negation of p (Page 7).  \n\nNote: The document assumes fixed times, fixed places, and particular people unless otherwise specified (Page 7).  \n\n(All page references are from the provided document context.)"
+    }
+  ]
+}

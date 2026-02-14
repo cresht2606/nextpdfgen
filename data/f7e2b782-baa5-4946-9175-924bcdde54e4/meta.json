@@ -1,0 +1,15 @@
+{
+  "session_id": "f7e2b782-baa5-4946-9175-924bcdde54e4",
+  "filename": "Session 11 - Boolean Algebras.pdf",
+  "uploaded_at": "2026-02-14T08:32:46.157304",
+  "chat_history": [
+    {
+      "role": "user",
+      "text": "The summary of boolean algebras"
+    },
+    {
+      "role": "assistant",
+      "text": "**Summary of Boolean Algebras**\n\n- **Commutative Laws**:  \n  - x + y = y + x  \n  - x \u2219 y = y \u2219 x  \n  (Page 8)\n\n- **Associative Laws**:  \n  - x + (y + z) = (x + y) + z  \n  - x \u2219 (y \u2219 z) = (x \u2219 y) \u2219 z  \n  (Page 8)\n\n- **Distributive Laws**:  \n  - x + (y \u2219 z) = (x + y) \u2219 (x + z)  \n  - x \u2219 (y + z) = (x \u2219 y) + (x \u2219 z)  \n  (Page  9)\n\n- **De Morgan\u2019s Laws**:  \n  - x + y = x\u0304 \u2219 \u0233  \n  - x \u2219 y = x\u0304 + \u0233  \n  (Page 9)\n\nThese laws form the foundation of Boolean algebra and are used to simplify and manipulate logical expressions.  \n(Page 8, Page 9)"
+    }
+  ]
+}
